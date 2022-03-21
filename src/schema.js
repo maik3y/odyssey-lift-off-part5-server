@@ -74,6 +74,4 @@ const typeDefs = gql`
   }
 `;
 
-// Test commit
-
 module.exports = typeDefs;
